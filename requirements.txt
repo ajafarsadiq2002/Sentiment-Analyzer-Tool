@@ -1,4 +1,4 @@
 Scikit-Learn
 Streamlit
-Numpy
+numpy
 Matplotlib
