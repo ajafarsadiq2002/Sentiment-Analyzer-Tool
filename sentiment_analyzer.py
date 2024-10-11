@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 st.title("Sentiment Analyzer Based On Text Analysis")
 st.write('\n\n')
 
-# Use the new caching method
+
 @st.cache_data
 def get_all_data():
     root = "Datasets/"
